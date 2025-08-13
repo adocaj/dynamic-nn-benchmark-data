@@ -20,7 +20,6 @@ This repository contains two sets of files related to our research on dynamic KD
 - **Highlights:**
   - Algorithmic refinements that improve both build/insertion and search performance.
   - In some settings — particularly in lower dimensions — the KD variant now **outperforms** the VP variant, differing from trends observed in the published tables.
-  - Users can choose between a more robust round-robin selection mechanism or a simple **O(1)** version.
 
 - **Contents:**
   - Python scripts that can be run locally, implementing the improved structures.
